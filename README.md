@@ -1,6 +1,6 @@
 # Middy JSON API Parser
 
-This is a [middy](https://middy.js.org/) middleware, which parsing AWS API Gateway events according to the [JSON:API spec](https://jsonapi.org/).
+This is a [middy](https://middy.js.org/) middleware, which is parsing AWS API Gateway events according to the [JSON:API spec](https://jsonapi.org/).
 
 ## Installation
 
